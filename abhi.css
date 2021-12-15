@@ -1,0 +1,64 @@
+*{
+    font-family: Verdana, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Tahoma, sans-serif;
+}
+
+.topnav ul{
+    list-style: 10px;
+    display: flex;
+    margin-right: 15px;
+    list-style: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding: 15px 32px;
+   
+}
+.row{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.para{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.topnav{
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 1px;
+    cursor: pointer;
+}
+.topnav ul li{
+    text-decoration: none;
+    font-size: 15px; 
+    padding-left: 20px;
+    text-align: right; 
+}
+.topnav button{
+    border: none;
+    padding: 1px 10px;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 15px;
+    margin: 2px 2px;
+    cursor: pointer;
+    margin-right: 40pt;
+}
+.card:hover{
+    transform: translate(-10px);
+}
+.col{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mb-4{
+    padding-left: 50px;
+    padding-right: 5px;
+}
+button {
+   /* margin: 50%/*;
+   /*padding:20%/*;
+}
+
+
